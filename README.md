@@ -1,16 +1,4 @@
-# login_register
+# Login Register
+https://user-images.githubusercontent.com/52542778/115433227-83025f00-a231-11eb-981f-85f5ac528987.mp4 ![image 1 (1)](https://user-images.githubusercontent.com/52542778/115433273-9281a800-a231-11eb-95c4-3ffd728b412b.png)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Design Credit: [Dwiki Darmawan](https://dribbble.com/shots/14219418-Login-page-sky-theme)
